@@ -25,7 +25,7 @@ Last Name | First Name | husky id   | github id | avatar
 ----------|------------|------------|-----------|---------
    |   | akinyemi.az        |   |     
    |   | biney.j        |   |     
-Davis   | Liam  | davis.li        | [Liam-Davis1](https://github.com/Liam-Davis1)  | ![Liam-Davis1](https://github.com/Liam-Davis1.png?size=40)         
+Davis   | Liam  | davis.li        | [Liam-Davis1](https://github.com/Liam-Davis1)  | ![Liam-Davis1](https://github.com/Liam-Davis1.png?size=40)      
 Hartley   | Meghan  | hartley.me        | [meghanhartley](https://github.com/meghanhartley)  | ![meghanhartley](https://github.com/meghanhartley.png?size=40)    
 Hilgemberg Merlin   | Julia  | hilgembergmerlin.j        | [juliahmerlin](https://github.com/juliahmerlin)  | ![juliahmerlin](https://github.com/juliahmerlin.png?size=40)    
 Caroline   | Leduc  | leduc.c        | [biker42](https://github.com/biker42)   | ![biker42](https://github.com/biker42.png?size=40)     
